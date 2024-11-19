@@ -1,6 +1,6 @@
 ---
-title: What is Product Management, and Why Does It Matter
-id: 20241119011109
+title: What is Product Management and Why Does It Matter
+id: 20241119013823
 ---
 
 When I first started working in software development, I thought the hardest part of building a product would be coding. While engineering is undeniably challenging, I quickly learned that creating a successful product is about much more than just writing great code. It’s about understanding people, markets, and business goals—and that’s where **product management** comes in.
